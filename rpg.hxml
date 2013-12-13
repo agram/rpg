@@ -1,0 +1,6 @@
+-cp src
+-swf rpg.swf
+-swf-header 576:576:60:FFFFFF
+-swf-version 11.6
+-main Title
+-lib h3d
